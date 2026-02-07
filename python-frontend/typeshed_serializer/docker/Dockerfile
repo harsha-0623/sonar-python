@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python:3.14.3
 
 # Install tox
 RUN pip install --no-cache-dir tox
